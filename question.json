@@ -1,0 +1,891 @@
+[
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": [
+      "Leicester City",
+      "Northampton Town",
+      "Bradford City",
+      "West Bromwich Albion"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": [
+      "Liverpool",
+      "Cheslea",
+      "Leicester City",
+      "Manchester United"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In baseball, how many fouls are an out?",
+    "correct_answer": "0",
+    "incorrect_answers": ["5", "3", "0", "2"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": [
+      "Ayrton Senna",
+      "Fernando Alonso",
+      "Jim Clark",
+      "Michael Schumacher"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": [
+      "Roy Jones Jr.",
+      "Evander Holyfield",
+      "Mike Tyson",
+      "Lennox Lewis"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "correct_answer": "Wayne Gretzky",
+    "incorrect_answers": [
+      "Mario Lemieux ",
+      "Sidney Crosby",
+      "Gordie Howe",
+      "Wayne Gretzky"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who did Steven Gerrard win the Champions League with?",
+    "correct_answer": "Liverpool",
+    "incorrect_answers": ["Liverpool", "Real Madrid", "Chelsea", "Man City"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+    "correct_answer": "Sunderland FC",
+    "incorrect_answers": [
+      "Barcelona FC",
+      "Paris Saints-Germain",
+      "Sunderland FC",
+      "Manchester United"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country will host the 2022 FIFA World Cup?",
+    "correct_answer": "Qatar",
+    "incorrect_answers": ["USA", "Japan", "Switzerland", "Qatar"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which two teams played in Super Bowl XLII?",
+    "correct_answer": "The New York Giants &amp; The New England Patriots",
+    "incorrect_answers": [
+      "The Green Bay Packers &amp; The Pittsburgh Steelers",
+      "The Philadelphia Eagles &amp; The New England Patriots",
+      "The New York Giants &amp; The New England Patriots",
+      "The Seattle Seahawks &amp; The Denver Broncos"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+    "correct_answer": "Nine",
+    "incorrect_answers": ["Nine", "Ten", "Seven", "Eight"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+    "correct_answer": "Hammer",
+    "incorrect_answers": ["Wrench", "Drill", "Hammer", "Screwdriver"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+    "correct_answer": "Mazda",
+    "incorrect_answers": ["Toyota", "Subaru", "Mazda", "Nissan"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+    "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+    "incorrect_answers": [
+      "Cristiano Ronaldo los Santos Diego",
+      "Cristiano Armando Diego Ronaldo",
+      "Cristiano Luis Armando Ronaldo",
+      "Cristiano Ronaldo dos Santos Aveiro"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which year was the third Super Bowl held?",
+    "correct_answer": "1969",
+    "incorrect_answers": ["1968", "1971", "1970", "1969"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+    "correct_answer": "Pittsburgh",
+    "incorrect_answers": ["Pittsburgh", "New York", "Seattle", "Tampa Bay"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+    "correct_answer": "Eric Cantona",
+    "incorrect_answers": [
+      "David Seamen",
+      "Eric Cantona",
+      "Ashley Cole",
+      "Mark Hughes"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is Manchester United&#039;s leading appearance maker?",
+    "correct_answer": "Ryan Giggs",
+    "incorrect_answers": [
+      "David Beckham",
+      "Ryan Giggs",
+      "Wayne Rooney",
+      "Eric Cantona"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+    "correct_answer": "1991",
+    "incorrect_answers": ["1990", "2000", "1987", "1991"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+    "correct_answer": "Horse Racing",
+    "incorrect_answers": ["Chess", "Horse Racing", "Jousting", "Fencing"]
+  },
+
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+    "correct_answer": "Putney",
+    "incorrect_answers": ["Hammersmith", "Vauxhall ", "Battersea", "Putney"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+    "correct_answer": "Puma",
+    "incorrect_answers": ["Nike", "Puma", "Adidas", "Reebok"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+    "correct_answer": "Saints",
+    "incorrect_answers": ["Harlequins", "Saracens", "Saints", "Wasps"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+    "correct_answer": "Mercedes-AMG Petronas",
+    "incorrect_answers": [
+      "Scuderia Ferrari",
+      "McLaren Honda",
+      "Mercedes-AMG Petronas",
+      "Red Bull Racing Renault"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+    "correct_answer": "American Football",
+    "incorrect_answers": [
+      "Wrestling",
+      "Archery",
+      "American Football",
+      "Horse-Racing"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+    "correct_answer": "Shaquille O&#039;Neal",
+    "incorrect_answers": [
+      "Shaquille O&#039;Neal",
+      "Allen Iverson",
+      "Kobe Bryant",
+      "Paul Pierce"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what sport does Fanny Chmelar compete for Germany?",
+    "correct_answer": "Skiing",
+    "incorrect_answers": ["Swimming", "Showjumping", "Gymnastics", "Skiing"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+    "correct_answer": "Toronto Marlies",
+    "incorrect_answers": [
+      "Toronto Rock",
+      "Toronto Argonauts",
+      "Toronto Marlies",
+      "Toronto Wolfpack"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What country hosted the 2014 Winter Olympics?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Canada", "Russia", "United States", "Germany"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+    "correct_answer": "James Rodr&iacute;guez",
+    "incorrect_answers": [
+      "Thomas M&uuml;ller",
+      "Lionel Messi",
+      "James Rodr&iacute;guez",
+      "Neymar"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the airspeed velocity of an unladen swallow?",
+    "correct_answer": "24 MPH",
+    "incorrect_answers": ["15 MPH", "20 MPH", "24 MPH", "200 MPH"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+    "correct_answer": "Parlor",
+    "incorrect_answers": ["Open Room", "Sitting Room", "Loft", "Parlor"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+    "correct_answer": "The Goth Family",
+    "incorrect_answers": [
+      "The Family",
+      "The Simoleon Family",
+      "The Goth Family",
+      "The Proud Family"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the romanized Korean word for &quot;heart&quot;?",
+    "correct_answer": "Simjang",
+    "incorrect_answers": ["Simjang", "Aejeong", "Jeongsin", "Segseu"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+    "correct_answer": "Qamar",
+    "incorrect_answers": ["Najma", "Kawkab", "Shams", "Qamar"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+    "correct_answer": "Turkish",
+    "incorrect_answers": ["German", "Turkish", "Danish", "Polish"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What year was the RoboSapien toy robot released?",
+    "correct_answer": "2004",
+    "incorrect_answers": ["2000", "2001", "2004", "2006"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "If you planted the seeds of Quercus robur, what would grow?",
+    "correct_answer": "Trees",
+    "incorrect_answers": ["Grains", "Vegetables", "Trees", "Flowers"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The word &quot;astasia&quot; means which of the following?",
+    "correct_answer": "The inability to stand up",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "The inability to stand up",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these cities does NOT have a United States Minting location?",
+    "correct_answer": "St. Louis, MO",
+    "incorrect_answers": [
+      "San Fransisco, CA",
+      "Philidelphia, PA",
+      "West Point, NY",
+      "St. Louis, MO"
+    ]
+  },
+
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+    "correct_answer": "Richard Branson",
+    "incorrect_answers": [
+      "Alan Sugar",
+      "Richard Branson",
+      "Donald Trump",
+      "Bill Gates"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+    "correct_answer": "Demolition",
+    "incorrect_answers": [
+      "The Dream Team",
+      "The Bushwhackers",
+      "Demolition",
+      "The British Bulldogs"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How would one say goodbye in Spanish?",
+    "correct_answer": "Adi&oacute;s",
+    "incorrect_answers": ["Adi&oacute;s", " Hola", "Au Revoir", "Salir"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which sign of the zodiac is represented by the Crab?",
+    "correct_answer": "Cancer",
+    "incorrect_answers": ["Libra", "Virgo", "Sagittarius", "Cancer"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+    "correct_answer": "Wax sculptures",
+    "incorrect_answers": [
+      "Designer clothing",
+      "Unreleased film reels",
+      "Wax sculptures",
+      "Vintage cars"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these colours is NOT featured in the logo for Google?",
+    "correct_answer": "Pink",
+    "incorrect_answers": ["Pink", "Yellow", "Blue", "Green"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is depicted on the US hundred dollar bill?",
+    "correct_answer": "Benjamin Franklin",
+    "incorrect_answers": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Benjamin Franklin",
+      "Thomas Jefferson"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of Poland in Polish?",
+    "correct_answer": "Polska",
+    "incorrect_answers": ["Pupcia", "Polszka", "P&oacute;land", "Polska"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was the first ever London Underground line to be built?",
+    "correct_answer": "Metropolitan Line",
+    "incorrect_answers": [
+      "Circle Line",
+      "Metropolitan Line",
+      "Bakerloo Line",
+      "Victoria Line"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is not the host of a program on NPR?",
+    "correct_answer": "Ben Shapiro",
+    "incorrect_answers": [
+      "Terry Gross",
+      "Ira Glass",
+      "Ben Shapiro",
+      "Peter Sagal"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+    "correct_answer": "Mike",
+    "incorrect_answers": ["Matthew", "Mark", "Max", "Mike"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+    "correct_answer": "Yale University",
+    "incorrect_answers": [
+      "Princeton University",
+      "Yale University",
+      "Harvard University",
+      "Columbia University"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the very first video uploaded to YouTube?",
+    "correct_answer": "Me at the zoo",
+    "incorrect_answers": [
+      "tribute",
+      "Me at the zoo",
+      "carrie rides a truck",
+      "Her new puppy from great grandpa vern."
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the destination of the missing flight MH370?",
+    "correct_answer": "Beijing",
+    "incorrect_answers": ["Kuala Lumpur", "Singapore", "Tokyo", "Beijing"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "correct_answer": "Bullfighting",
+    "incorrect_answers": ["Fiestas", "Flamenco", "Bullfighting", "Mariachi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+    "correct_answer": "Shiatsu",
+    "incorrect_answers": ["Shiatsu", "Ukiyo", "Majime", "Ikigai"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was Nintendo founded?",
+    "correct_answer": "September 23rd, 1889",
+    "incorrect_answers": [
+      "October 19th, 1891",
+      "March 4th, 1887",
+      "September 23rd, 1889",
+      "December 27th, 1894"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+    "correct_answer": "David Childs",
+    "incorrect_answers": [
+      "David Childs",
+      "Bjarke Ingels",
+      "Michael Arad",
+      "Fumihiko Maki"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was Mountain Dew&#039;s original slogan?",
+    "correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+    "incorrect_answers": [
+      "Give Me A Dew",
+      "Do The Dew",
+      "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+      "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+    "correct_answer": "Twilight Zone Tower of Terror",
+    "incorrect_answers": [
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "Peter Pan&#039;s Flight",
+      "Twilight Zone Tower of Terror"
+    ]
+  },
+
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+    "correct_answer": "Crete",
+    "incorrect_answers": ["Sardinia", "Sicily", "Crete", "Cyprus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+    "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+    "incorrect_answers": [
+      "Cursed to roll a boulder up a hill for eternity.",
+      "Tied to a boulder for eternity, being pecked by birds.",
+      "Standing in a lake filled with water he could not drink.",
+      "To fell a tree that regenerated after every axe swing."
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "According to Algonquian folklore, how does one transform into a Wendigo?",
+    "correct_answer": "Participating in cannibalism.",
+    "incorrect_answers": [
+      "Excessive mutilation of animal corpses.",
+      "Performing a ritual involving murder.",
+      "Drinking the blood of many slain animals.",
+      "Participating in cannibalism."
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Greek Mythology, who was the daughter of King Minos?",
+    "correct_answer": "Ariadne",
+    "incorrect_answers": ["Athena", "Ariel", "Ariadne", "Alana"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+    "correct_answer": "Nidhogg",
+    "incorrect_answers": ["Bragi", "Odin", "Ymir", "Nidhogg"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following is NOT a god in Norse Mythology.",
+    "correct_answer": "Jens",
+    "incorrect_answers": ["Loki", "Tyr", "Snotra", "Jens"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Nidhogg is a mythical creature from what mythology?",
+    "correct_answer": "Norse",
+    "incorrect_answers": ["Egyptian", "Greek", "Norse", "Hindu"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+    "correct_answer": "Tree",
+    "incorrect_answers": ["Tree", "Mountain", "Temple", "Castle"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Norse God has a horse named Sleipnir?",
+    "correct_answer": "Odin",
+    "incorrect_answers": ["Odin", "Thor", "Frigg", "Balder"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+    "correct_answer": "Aristaeus",
+    "incorrect_answers": ["Aristaeus", "Autonoe", "Carme", "Cephisso"]
+  },
+
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+    "correct_answer": "Athena",
+    "incorrect_answers": ["Ares", "Artemis", "Athena", "Apollo"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the Roman god of fire?",
+    "correct_answer": "Vulcan",
+    "incorrect_answers": ["Apollo", "Jupiter", "Vulcan", "Mercury"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Neptune&#039;s greek name was...",
+    "correct_answer": "Poseidon",
+    "incorrect_answers": ["Ares", "Zeus", "Apollo", "Poseidon"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+    "correct_answer": "Enkidu",
+    "incorrect_answers": ["Enki", "Enlil", "Enkimdu", "Enkidu"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+    "correct_answer": "Janus",
+    "incorrect_answers": ["Vulcan", "Juno", "Janus", "Mars"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+    "correct_answer": "Set",
+    "incorrect_answers": ["Horus", "Set", "Ra", "Anhur"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is not one of the Greek Fates?",
+    "correct_answer": "Narcissus",
+    "incorrect_answers": ["Narcissus", "Clotho", "Atropos", "Lachesis"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["Vanuatu", "Fiji", "New Zealand", "Hawaii"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Hel was the daughter of which Norse Mythological figure?",
+    "correct_answer": "Loki",
+    "incorrect_answers": ["Thor", "Odin", "Balder", "Loki"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+    "correct_answer": "Bull",
+    "incorrect_answers": ["Pig", "Ox", "Bull", "Horse"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the only god from Greece who did not get a name change in Rome?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": ["Apollo", "Demeter", "Zeus", "Athena"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The ancient Roman god of war was commonly known as which of the following?",
+    "correct_answer": "Mars",
+    "incorrect_answers": ["Jupiter", "Juno", "Ares", "Mars"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+    "correct_answer": "Jason",
+    "incorrect_answers": ["Castor", "Daedalus", "Jason", "Odysseus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+    "correct_answer": "Eris",
+    "incorrect_answers": ["Charon", "Ceres", "Dysnomia", "Eris"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the King of Gods in Ancient Greek mythology?",
+    "correct_answer": "Zeus",
+    "incorrect_answers": ["Apollo", "Hermes", "Zeus", "Poseidon"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": ["Apollo", "Aphrodite", "Artemis", "Athena"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+    "correct_answer": "Centaur",
+    "incorrect_answers": ["Minotaur", "Pegasus", "Centaur", "Gorgon"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What mythology did the god &quot;Apollo&quot; come from?",
+    "correct_answer": "Greek and Roman",
+    "incorrect_answers": [
+      "Roman and Spanish",
+      "Greek and Roman",
+      "Greek and Chinese",
+      "Greek, Roman and Norse"
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+    "correct_answer": "Harpies",
+    "incorrect_answers": ["Harpies", "Mermaids", "Nymph", "Lilith"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+    "correct_answer": "Victory",
+    "incorrect_answers": ["Courage", "Strength", "Victory", "Honor"]
+  }
+]
